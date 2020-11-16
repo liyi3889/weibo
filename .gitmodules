@@ -1,0 +1,9 @@
+[submodule "weibo_spider"]
+	path = weibo_spider
+	url = git@github.com:liyi3889/weibo_spider.git
+[submodule "weibo_app"]
+	path = weibo_app
+	url = git@github.com:liyi3889/weibo_app.git
+[submodule "weibo_api"]
+	path = weibo_api
+	url = git@github.com:liyi3889/weibo_api.git
